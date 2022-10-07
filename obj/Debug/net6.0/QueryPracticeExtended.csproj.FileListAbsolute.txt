@@ -1,0 +1,15 @@
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.csproj.AssemblyReference.cache
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.AssemblyInfoInputs.cache
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.AssemblyInfo.cs
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.csproj.CoreCompileInputs.cache
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\bin\Debug\net6.0\QueryPracticeExtended.exe
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\bin\Debug\net6.0\QueryPracticeExtended.deps.json
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\bin\Debug\net6.0\QueryPracticeExtended.runtimeconfig.json
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\bin\Debug\net6.0\QueryPracticeExtended.dll
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\bin\Debug\net6.0\QueryPracticeExtended.pdb
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.dll
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\refint\QueryPracticeExtended.dll
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.pdb
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\QueryPracticeExtended.genruntimeconfig.cache
+C:\Users\stormy\Git\school projects\QueryPracticeExtended\obj\Debug\net6.0\ref\QueryPracticeExtended.dll
